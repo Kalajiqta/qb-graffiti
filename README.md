@@ -1,6 +1,9 @@
 # FiveM QBCore Graffiti Script
 This is a marking script for browning on buildings walls and such. There is an option that is for gangs where they can mark their territories!
 
+## Preview
+https://streamable.com/g4954a
+
 ## Instalation
 + qb-core/shared/items.lua ->
 ```lua
