@@ -5,4 +5,4 @@ author 'Kalajiqta - Matrix Development'
 description 'Graffiti Props'
 version '1.0'
 
-data_file 'DLC_ITYP_REQUEST' 'stream/props.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/spray_propsfw.ytyp'
