@@ -188,6 +188,8 @@ RegisterNetEvent('qb-graffiti:client:placeGraffiti', function(model, slot)
                     end)
                 end
             end)
+        else
+            QBCore.Functions.Notify(Lang:t('error.not_information'), 'error')
         end
     end
 end)
