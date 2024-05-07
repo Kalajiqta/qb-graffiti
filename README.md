@@ -4,6 +4,9 @@ This is a marking script for browning on buildings walls and such. There is an o
 ## Preview
 https://streamable.com/g4954a
 
+## Discord
+https://discord.gg/sp3cgCy4Ay
+
 ## Instalation
 + qb-core/shared/items.lua ->
 ```lua
